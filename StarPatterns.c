@@ -588,11 +588,11 @@ DDDDDDD
 //     i<=5?k++:k--;
 //     for(j=1;j<=5;j++){
 //       if(i==5 && j<=3)
-//         printf("#");
+//            printf("#");
 //       else if(j>=6-k)
-//       printf("*");
+//            printf("*");
 //       else 
-//       printf(" ");
+//           printf(" ");
     
 //     }
 //     printf("\n");
